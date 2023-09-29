@@ -18,10 +18,15 @@ This dataset (seven folders) consists of bird point counts, elevation values, di
 All the datasets are in .csv format and .Rdata format (i.e., output from R programing software).
 
 *********************************************
-# Data_*
+# Data_*  
 ********************************************
 The folders contain data used in the analysis
 
+##############################For the HCDSM63spp.RData (284mbs) ########################
+
+Contains parameter estimates from the hierarchical community distance sampling model (63 bird species of birds)
+
+Download directly from dryad - link provided above or contact at first author at samwiry@gmail.com
 *********************************************
 # Code_*
 ********************************************
