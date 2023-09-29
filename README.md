@@ -22,8 +22,6 @@ All the datasets are in .csv format and .Rdata format (i.e., output from R progr
 ********************************************
 The folders contain data used in the analysis
 
-# Data_HCDSM63sp
-
 *********************************************
 # Code_*
 ********************************************
