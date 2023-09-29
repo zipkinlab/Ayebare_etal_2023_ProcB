@@ -18,12 +18,12 @@ This dataset (seven folders) consists of bird point counts, elevation values, di
 All the datasets are in .csv format and .Rdata format (i.e., output from R programing software).
 
 -----------------------------------------
-# General description: Code/Software 
+# General description: Code
 --------------------------------------------
 
-Software code for running a hierarchical community distance sampling model (i.e., 63species), 
+Code for running a hierarchical community distance sampling model (i.e., 63species), 
 extension of the a hierarchical community distance sampling model  (i.e., warblers (5 species)- Cisticolidae), 
-niche overlap indices and null model distributions is available at Zenodo.
+niche overlap indices and null model distributions is available in folders Code_*.
 
 Parameters for our hierarchical community distance sampling models were estimated using a Bayesian approach 
 with the programs R (R Core Team 2020) and JAGS (Plummer 2003) using the jagsUI package (Kellner 2021).
