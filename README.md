@@ -49,4 +49,8 @@ The folders contain code for the analysis
 *********************************************
 # Appendix S5- species list
 ********************************************
-A list of all 63 bird species (from 32 families) that were included in our hierarchical community distance sampling model .
+A list of all 63 bird species (from 32 families) that were included in our hierarchical community distance sampling model.
+
+# Link to manuscript
+https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0467
+
