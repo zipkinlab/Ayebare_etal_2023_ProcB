@@ -1,4 +1,4 @@
-# Data body mass (63 bird species)
+# Data - body mass (63 bird species)
 
 1. **`Bodymass_63species.csv`**: File contains data used to calculate the coefficient of variation for 60 random species pairs from a community of 63 species.
 
