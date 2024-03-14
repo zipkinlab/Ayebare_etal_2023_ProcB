@@ -18,7 +18,7 @@
        
 3. **`prop.weak.overlap.samples.d.csv`**
    + **Variables**
-     * col 1: Proportion of weak diet niche overlap indices considering 60 species pairs. Note: diet niche partitioning is considered weak when index is < 0.5  
+     * col 1: Proportion of weak diet niche overlap indices considering 60 species pairs. Note: diet niche partitioning is considered weak when index is < 0.5.  
      * Sp_* :  Unique identification for bird species (63) within the community (full species names are provided in Appendix S5).
     
 4. **`prop.strong.overlap.samples.d.csv`**
