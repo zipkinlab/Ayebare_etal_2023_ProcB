@@ -323,7 +323,7 @@ Description:  Proportion of weak foraging strata niche partitioning
  * Sp_* : Unique identification for species (63) within the community (Full species names are provided in Appendix S5)
 
 ---------------------------------
-#### prop.strong.overlap.samples.d.csv ####
+#### prop.strong.overlap.samples.s.csv ####
 ---------------------------------
 Description:  :  Proportion of strong foraging strata niche partitioning
 # Dimensions: 1 row x 63 columns
