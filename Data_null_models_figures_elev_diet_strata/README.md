@@ -1,4 +1,4 @@
-# Data null model distributions ( elevation, diet, forest strata)
+# Data - null model distributions ( elevation, diet, forest strata)
 
 **Folder contents**: contains 4 files (i.e., prop.weak.overlap.samples.elev, prop.strong.overlap.samples.elev, prop.weak.overlap.samples.d, prop.strong.overlap.samples.d, prop.weak.overlap.samples.s, prop.strong.overlap.samples.s ).
 
