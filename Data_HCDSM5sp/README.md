@@ -1,4 +1,4 @@
-# Data 
+# Data - modified hierarchical community distance sampling model 
 1. **`Cisticolidae_raw_data.csv`**: input file to fit a joint species distribution model for 5 species of warblers (Cisticolidae).
 
    + **Variables**  
