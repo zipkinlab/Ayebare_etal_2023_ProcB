@@ -1,4 +1,4 @@
-# Data spatial site index
+# Data - spatial site index
 
 1. **`Community.63sp.csv`**: File contains lantent abundance of birds along an elevation gradient – generated from a hierarchical community distance sampling model.
 
