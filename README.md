@@ -40,7 +40,7 @@ The folders contain data used in the analysis
 
 Contains parameter estimates from the hierarchical community distance sampling model (63 bird species of birds)
 
-Download directly from dryad - link provided above or contact at first author at samwiry@gmail.com
+Download directly from dryad - link provided above or contact the first author at samwiry@gmail.com
 *********************************************
 # Code_*
 ********************************************
