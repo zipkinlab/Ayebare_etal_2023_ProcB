@@ -1,5 +1,5 @@
 ### Author: Samuel Ayebare
-## Figures_niche_indices.r
+## Body_size_null_model_code_n_Figure.r
 
 ## This script
                 # generates the null model distribution and figure for body size variation
