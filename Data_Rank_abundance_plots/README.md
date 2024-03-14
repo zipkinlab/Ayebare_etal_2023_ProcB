@@ -1,4 +1,4 @@
-# Data - Rank abundance
+# Data - rank abundance
 
 1. **`Rank.sp44.csv`**:  Relative abundance per species -  derived from this study which comes from Parc National des Volcans in Rwanda and Derhé et al. 2020 using a multi-year data set collected in Parc National des Volcans.
    
