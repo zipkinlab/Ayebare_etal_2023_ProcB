@@ -1,4 +1,4 @@
-# Figures, and computution of niche overlap indices 
+# Figures, and computation of niche overlap indices 
 
 1. `Detection_probability.R`: Contains code to generate community mean detection probabilities for birds in each vegetation type (Appendix S7:Figure S1).
 2. `Figures_niche_indices.R`: Contains code to generate figures showing results from niche overlap indices, and to compute elevation, diet and foraging vertical strata niche overlap indices.
