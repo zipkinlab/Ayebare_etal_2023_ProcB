@@ -1,4 +1,4 @@
-# Data
+# Data - hierarchical community distance sampling model 
 1. **`HCDSM_raw_data.csv `**: input file to fit a hierarchical community distance sampling model for 63 species
    
      + **Variables** 
