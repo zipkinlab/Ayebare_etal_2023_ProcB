@@ -24,7 +24,7 @@ loadfonts(device = "win")
 #-----------------------#
 #-Set working directory-#
 #-----------------------#
-setwd("./Data_spatial_site_index")
+setwd("./Data")
 
 
 # # Import raw count data
