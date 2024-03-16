@@ -25,7 +25,7 @@ loadfonts(device = "win")
 #-Set working directory-#
 #-----------------------#
 
-setwd("./Data_indices_figures")
+setwd("./Data")
 
 
 #---------------------#
@@ -35,7 +35,7 @@ setwd("./Data_indices_figures")
 ### Model 1
 ### Null model
 
-load("../Data_indices_figures/HCDSM_warblers_null.RData")
+load("../Data/HCDSM_warblers_null.RData")
 
 ###### Model output
 null_model <- HCDSM_warblers_Virunga_null$summary
@@ -45,7 +45,7 @@ write.csv(null_model, "null_model.csv")
 ### Model 2
 ### Covariate model- Elevation
 
-load("../Data_indices_figures/HCDSM_warblers_elev.RData")
+load("../Data/HCDSM_warblers_elev.RData")
 
 ###### Model output
 covariate_model <- HCDSM_warblers_Virunga_elev$summary
