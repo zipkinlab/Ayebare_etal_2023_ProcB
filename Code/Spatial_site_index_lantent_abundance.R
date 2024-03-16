@@ -26,7 +26,7 @@ library(HDInterval)
 #-Set working directory-#
 #-----------------------#
 
-setwd("./Data_spatial_site_index")
+setwd("./Data")
 
 
 ######################################
