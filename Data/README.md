@@ -330,3 +330,7 @@ foraging vertical strata niche dimensions.
             pairs) used to generate a null model expectation.
         -   col\[2\] - mean latent abundance (each sample = 60 species
             pairs).
+
+# Data attributes
+
+1. **`Data attributes.txt`**: Files containing metadata (mostly duplicated in this README). References a slightly different file structure but also has info on file size. 
