@@ -21,7 +21,7 @@ loadfonts(device = "win")
 #-Set working directory-#
 #-----------------------#
 
-setwd("./Data_null_models_figures_elev_diet_strata")
+setwd("./Data")
 
 
 ##############################
