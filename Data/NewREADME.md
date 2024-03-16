@@ -140,7 +140,7 @@
         -   Sp\_\* : Unique identification for species (63) within the
             community (Full species names are provided in Appendix S5).
 
-5.  **`mean.cv.scale.parameter.csv`**: (1 file)- Contains the mean
+5.  **`indices.figures.mean.cv.scale.parameter.csv`**: (1 file)- Contains the mean
     coefficient of variation (null distribution) values for the
     detection scale parameter for species pairs across families.
 
@@ -311,7 +311,7 @@ foraging vertical strata niche dimensions.
         -   Subsequent columns- Unique identification for each species
             (i.e., raw counts at each sampling point in the study area).
 
-3.  **`mean.cv.scale.parameter.csv`**: File contains data on the mean
+3.  **`spatial.site.index.mean.cv.scale.parameter.csv`**: File contains data on the mean
     coefficient of variation (null distribution) for the detection scale
     parameter (σ_js) for species pairs across families.
 
