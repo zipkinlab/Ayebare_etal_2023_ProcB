@@ -30,7 +30,7 @@ loadfonts(device = "win")
 #-Set working directory-#
 #-----------------------#
 
-setwd("./Data_indices_figures")
+setwd("./Data")
 
 #---------------------#
 #-Load Files and data-#
@@ -40,7 +40,7 @@ setwd("./Data_indices_figures")
 ## Data: For estimating a  Null model distribution  -elevation #
 #---------------------------------------------------------------#
 
-load("../Data_indices_figures/HCDSM63spp.RData")
+load("../Data/HCDSM63spp.RData")
 
 ## Model output
 HCDSM_Virunga_63spp
