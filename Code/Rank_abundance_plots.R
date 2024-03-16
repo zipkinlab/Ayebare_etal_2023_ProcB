@@ -29,7 +29,7 @@ loadfonts(device = "win")
 #-Set working directory-#
 #-----------------------#
 
-setwd("./Data_Rank_abundance_plots")
+setwd("./Data")
 
 
 # Importing species relative abundance (i.e., This study & Derhé et al. (2020))
