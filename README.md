@@ -1,5 +1,7 @@
 #  [An environmental habitat gradient and within-habitat segregation enable co-existence of ecologically similar bird species](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0467)
 
+### Proceedings of the Royal Society B
+
 ### [Samuel Ayebare](https://github.com/samwiry), [Jeffrey W. Doser](https://jeffdoser.com), Andrew J. Plumptre, Isaiah Owiunji, Hamlet Mugabe, & [Elise F. Zipkin](https://zipkinlab.org/)
 
 ### Code/Data DOI: [10.5061/dryad.fttdz08z8](https://doi.org/10.5061/dryad.fttdz08z8);  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7951611.svg)](https://doi.org/10.5281/zenodo.7951611)
