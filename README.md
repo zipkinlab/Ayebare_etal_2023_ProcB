@@ -1,6 +1,6 @@
 #  [An environmental habitat gradient and within-habitat segregation enable co-existence of ecologically similar bird species](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0467)
 
-### [Samuel Ayebare](https://github.com/samwiry), [Jeffrey W. Doser](https://github.com/doserjef), Andrew J. Plumptre, Isaiah Owiunji, Hamlet Mugabe, & [Elise F. Zipkin](https://zipkinlab.org/)
+### [Samuel Ayebare](https://github.com/samwiry), [Jeffrey W. Doser](https://jeffdoser.com), Andrew J. Plumptre, Isaiah Owiunji, Hamlet Mugabe, & [Elise F. Zipkin](https://zipkinlab.org/)
 
 ### Code DOI: https://doi.org/10.5061/dryad.fttdz08z8
 
@@ -33,5 +33,5 @@ with the programs R (R Core Team 2020) and JAGS (Plummer 2003) using the jagsUI 
 All analysis was carried out using program R (R Core Team 2020).
 
 
-## [Appendix S5- species list](./Appendix S5- species list)
+## [Appendix S5- species list](./Appendix\ S5-\ species\ list.docx)
  A list of all 63 bird species (from 32 families) that were included in our hierarchical community distance sampling model.
