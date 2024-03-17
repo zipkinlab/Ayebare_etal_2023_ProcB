@@ -1,4 +1,4 @@
-#  [An environmental habitat gradient and within-habitat segregation enable co-existence of ecologically similar bird species](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2023.0467)
+#  [An environmental habitat gradient and within-habitat segregation enable co-existence of ecologically similar bird species](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0467)
 
 ### Proceedings of the Royal Society B
 
