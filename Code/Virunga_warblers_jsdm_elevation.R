@@ -11,7 +11,7 @@
 #-Set Working Directory-#
 #-----------------------#
 
-setwd("./Data_HCDSM5sp")
+setwd("./Data")
 #----------------#
 #-Load libraries-#
 #----------------#
