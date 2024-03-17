@@ -33,5 +33,5 @@ with the programs R (R Core Team 2020) and JAGS (Plummer 2003) using the jagsUI 
 All analysis was carried out using program R (R Core Team 2020).
 
 
-## [Appendix S5- species list](./Appendix\ S5-\ species\ list.docx)
+## [Appendix S5 - species list](./AppendixS5-species-list.docx)
  A list of all 63 bird species (from 32 families) that were included in our hierarchical community distance sampling model.
