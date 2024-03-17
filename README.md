@@ -2,9 +2,7 @@
 
 ### [Samuel Ayebare](https://github.com/samwiry), [Jeffrey W. Doser](https://jeffdoser.com), Andrew J. Plumptre, Isaiah Owiunji, Hamlet Mugabe, & [Elise F. Zipkin](https://zipkinlab.org/)
 
-### Code DOI: [10.5061/dryad.fttdz08z8](https://doi.org/10.5061/dryad.fttdz08z8)
-
-### Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7951611.svg)](https://doi.org/10.5281/zenodo.7951611)
+### Code/Data DOI: [10.5061/dryad.fttdz08z8](https://doi.org/10.5061/dryad.fttdz08z8);  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7951611.svg)](https://doi.org/10.5281/zenodo.7951611)
 
 ### Please contact the first author for questions about code or data: Samuel Ayebare (ayebares@msu.edu)
 
