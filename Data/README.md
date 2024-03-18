@@ -160,15 +160,20 @@
         -   nha8: unique identification for habitat types recorded at
             sampling points
 
-7.  **`HCDSM_warblers_elev.RData`**: (1 file)- Model results (with
+7. **`HCDSM63spp.RData`**: (1 file) Contains parameter estimates from the
+   hierarchical community distance sampling model (63 species of birds).
+   The file can be downloaded from Dryad using this link: https://datadryad.org/stash/dataset/doi:10.5061/dryad.fttdz08z8
+
+
+8.  **`HCDSM_warblers_elev.RData`**: (1 file)- Model results (with
     covariate) for the warbler (Cisticolidae) community model extension
     used to estimate residual correlations among species pairs.
 
-8.  **`HCDSM_warblers_null.RData`**: (1 file)- Model results (null
+9.  **`HCDSM_warblers_null.RData`**: (1 file)- Model results (null
     model) for the warbler (Cisticolidae) community model extension used
     to estimate residual correlations among species pairs.
 
-9.  **`Species_list.csv`**: (1 file)- A list of all 63 bird species
+10.  **`Species_list.csv`**: (1 file)- A list of all 63 bird species
     (from 32 families) that were included in our hierarchical community
     distance sampling model to estimate abundance variation along an
     elevation gradient in the Virunga volcanoes.
