@@ -3,7 +3,7 @@
 1.  **`Cisticolidae_raw_data.csv`**: input file to fit a joint species
     distribution model for 5 species of warblers (Cisticolidae).
 
-    -   **Variables**\
+    -   **Variables**
 
 -   pt: unique identification for each sampling point.
 -   family: taxanomic rank of birds observed at each sampling point.
@@ -16,7 +16,7 @@
 2.  **`Virunga_covariates.csv`**: input file to fit a joint species
     distribution model for 5 species of warblers (Cisticolidae).
 
-    -   **Variables**\
+    -   **Variables**
 
 -   pt: unique identification for each sampling point.
 -   elev: elevation data at each sampling point.
@@ -42,7 +42,7 @@
 2.  **`Virunga_covariates.csv`**: input file to fit a joint species
     distribution model for 5 species of warblers (Cisticolidae).
 
-    -   **Variables**\
+    -   **Variables**
 
 -   pt: unique identification for each sampling point.
 -   elev: elevation data at each sampling point.
@@ -222,7 +222,7 @@ foraging vertical strata niche dimensions.
     -   **Variables**
         -   col 1: Proportion of weak diet niche overlap indices
             considering 60 species pairs. Note: diet niche partitioning
-            is considered weak when index is \< 0.5.\
+            is considered weak when index is \< 0.5.
         -   Sp\_\* : Unique identification for bird species (63) within
             the community (full species names are provided in Appendix
             S5).
@@ -253,7 +253,7 @@ foraging vertical strata niche dimensions.
         -   col 1: Proportion of strong vertical foraging forest strata
             niche overlap indices considering 60 species pairs. Note:
             vertical foraging forest strata niche partitioning is
-            considered strong when index is \< 0.5
+            considered strong when index is \< 0.5.
         -   Sp\_\* : Unique identification for species (63) within the
             community (Full species names are provided in Appendix S5).
 
